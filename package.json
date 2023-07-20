@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Constrix/Constrix-community/issues"
   },
-  "homepage": "https://github.com/Constrix/Constrix-community#readme"
+  "homepage": "https://github.com/Constrix/Constrix-community#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
